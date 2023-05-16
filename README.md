@@ -3,19 +3,26 @@
 
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  )](https://www.instagram.com/lvenditem/)
- <a href="www.linkedin.com/in/LVenditeM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:kathllyn.leticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  [![twitter](https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white
+ )](https://twitter.com/LVenditeM)
+   [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ )](www.linkedin.com/in/LVenditeM)
+
  <div>
- <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;" 
- src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
- </div>
        
 ## Sobre mim:
        
   <div align="left">
          
          
-- 🎲 Desenvolvedor Jr. | 
+-🎲 Desenvolvedor Jr.              | 
+-👤 Nome: Lucas Vendite          
+-🎉 Idade: 19 anos 29/11/2003*
+-👔 Título profissional: Estudante de Programação | Apaixonado por Desenvolvimento
+-🎭 Resumo: Sou um jovem competitivo e colaborativo, apaixonado por lógica, matemática e tecnologia. Estou atualmente estudando programação para me tornar um desenvolvedor, buscando desafios emocionantes e a oportunidade de aplicar minhas habilidades técnicas na resolução de problemas complexos e no desenvolvimento de soluções inovadoras. Determinado e entusiasmado, estou pronto para embarcar nesta emocionante jornada de aprendizado e crescimento profissional.
+-💎 Experiência: https://github.com/LVenditeM, experiência em desenvolvimento web por meio de projetos freelancers
+-🔮 Habilidades: HTML, CSS, JavaSript
+-🎓 Educação: Técnico em Informatica pelo IFMS(Ponta Porã, 2018), Cursando Sistemas da Informação pela UFMS(Ponta Porã, 2023)
 
          
 <div align="center"> 
@@ -23,7 +30,7 @@
  </a> 
 <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvenditem&layout=compact&theme=radical" />
 </a> 
-<a href="https://twitter.com/LVenditeM"><img height="150em" src="https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href=""><img height="150em" src="" />
 </a> 
 
 </div>
