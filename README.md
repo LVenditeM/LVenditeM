@@ -43,8 +43,8 @@
             <li>🎲 Web Jr. Developer</li>
             <li>👤 Name: Lucas Vendite</li>
             <li>🎉 Age: 19 years old, born on November 29, 2003*</li>
-            <li>👔 Professional Title: Programming Student | Passionate about Development</li>
-            <li>🎭 Summary: I am a competitive and collaborative young individual, passionate about logic, mathematics, and technology. I am currently studying programming to become a developer, seeking exciting challenges and the opportunity to apply my technical skills to solve complex problems and develop innovative solutions. Determined and enthusiastic, I am ready to embark on this exciting journey of learning and professional growth.</li>
+            <li>👔 Professional Title: Programming Student |  Enthusiastic about Development</li>
+            <li>🎭 Summary: I'm a competitive and collaborative young person, who is passionate about logic, mathematics, and technology. Currently, I'm studying programming with the goal of becoming a developer. I'm eager to take on exciting challenges and apply my technical skills to solve complex problems and create innovative solutions. With determination and enthusiasm, I'm ready to embark on this exciting journey of learning and professional growth..</li>
             <li>💎 Experience: [GitHub](https://github.com/LVenditeM), experience in web development through freelance projects</li>
             <li>🔮 Skills: HTML, CSS, JavaScript</li>
             <li>🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018), Currently pursuing a degree in Information Systems at UFMS (Ponta Porã, 2023)</li>
@@ -52,7 +52,7 @@
         </div>
       </td>
       <td>
-        <div align="left">
+        <div align="left">        <br>        <br>
           <h3>Sobre mim:</h3>
           <ul>
             <li>🎲 Desenvolvedor Web Jr.</li>
