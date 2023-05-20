@@ -16,7 +16,9 @@
 ## Sobre mim:
        
 <div align="left">
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 -🎲 Desenvolvedor Jr.
 -👤 Nome: Lucas Vendite
 -🎉 Idade: 19 anos 29/11/2003*
@@ -25,7 +27,9 @@
 -💎 Experiência: https://github.com/LVenditeM, experiência em desenvolvimento web por meio de projetos freelancers
 -🔮 Habilidades: HTML, CSS, JavaSript
 -🎓 Educação: Técnico em Informatica pelo IFMS(Ponta Porã, 2018), Cursando Sistemas da Informação pela UFMS(Ponta Porã, 2023)
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 -🎲 Jr. Developer
 -👤 Name: Lucas Vendite
 -🎉 Age: 19 years old, born on November 29, 2003*
@@ -34,6 +38,7 @@
 -💎 Experience: https://github.com/LVenditeM, experience in web development through freelance projects
 -🔮 Skills: HTML, CSS, JavaScript
 -🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018), Currently pursuing a degree in Information Systems at UFMS (Ponta Porã, 2023)
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
          
