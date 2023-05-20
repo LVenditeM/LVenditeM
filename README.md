@@ -19,8 +19,8 @@
  
 -------------------------------------------------------------------------------------------------------------------------------------------------
  
--🎲 Desenvolvedor Jr.
--👤 Nome: Lucas Vendite
+-🎲 Desenvolvedor Jr. 
+-👤 Nome: Lucas Vendite 
 -🎉 Idade: 19 anos 29/11/2003*
 -👔 Título profissional: Estudante de Programação | Apaixonado por Desenvolvimento
 -🎭 Resumo: Sou um jovem competitivo e colaborativo, apaixonado por lógica, matemática e tecnologia. Estou atualmente estudando programação para me tornar um desenvolvedor, buscando desafios emocionantes e a oportunidade de aplicar minhas habilidades técnicas na resolução de problemas complexos e no desenvolvimento de soluções inovadoras. Determinado e entusiasmado, estou pronto para embarcar nesta emocionante jornada de aprendizado e crescimento profissional.
