@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Vendite;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
- <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lvenditem&show_icons=true&include_all_commits=true&theme=radical"/>
+ <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lvenditem&show_icons=false&include_all_commits=true&theme=radical&rank_icon=github"/>
  </a> 
 <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvenditem&layout=compact&theme=radical" />
 </a> 
