@@ -1,16 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Vendite;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
+<p align="center">
+  <a href="#stats">Stats</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#skills">Skills</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#social">Social</a>
+</p>
+
+<br><br>
 
 <div align="center"> 
+ <h2 id="stats"></h2>
  <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lvenditem&show_icons=false&include_all_commits=true&theme=radical&rank_icon=github"/>
  </a> 
 <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvenditem&layout=compact&theme=radical" />
 </a> 
 </div>
 
- <div align="center">         
-
+ <div align="center">        
+  <h2 id="skills"></h2>
+<br><br>
 <table>
   <tr>
     <td>
@@ -32,8 +43,10 @@
     </td>
   </tr>
 </table>
+ <br><br>
  
 <div align="center">
+   <h2 id="about"></h2>
   <table>
     <tr>
       <td>
@@ -69,19 +82,22 @@
     </tr>
   </table>
 </div>
-
+<br><br>
          
 
 
-<div align="center">
-
+<div  align="center">
+    <h2 id="social"></h2>
+<h2>Social</h2>
+ 
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  )](https://www.instagram.com/lvenditem/)
   [![twitter](https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white
  )](https://twitter.com/LVenditeM)
    [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
  )](www.linkedin.com/in/LVenditeM)
-
+ <br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=footer"/>
  <div>
 
   
