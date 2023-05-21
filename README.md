@@ -9,10 +9,12 @@
    <a href="#social">Social</a>
 </p>
 
-<br><br>
 
 <div align="center"> 
+<br>
  <h2 id="stats"></h2>
+  <br>
+<br>
  <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lvenditem&show_icons=false&include_all_commits=true&theme=radical&rank_icon=github"/>
  </a> 
 <a href="https://github.com/lvenditem/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvenditem&layout=compact&theme=radical" />
@@ -21,7 +23,7 @@
 
  <div align="center">        
   <h2 id="skills"></h2>
-<br><br>
+<br>
 <table>
   <tr>
     <td>
@@ -51,7 +53,7 @@
     <tr>
       <td>
         <div align="left">
-          <h3>About me:</h3>
+          <h2>About me:</h2>
           <ul>
             <li>🎲 Web Jr. Developer</li>
             <li>👤 Name: Lucas Vendite</li>
@@ -66,7 +68,7 @@
       </td>
       <td>
         <div align="left">        <br>        <br>
-          <h3>Sobre mim:</h3>
+          <h2>Sobre mim:</h2>
           <ul>
             <li>🎲 Desenvolvedor Web Jr.</li>
             <li>👤 Nome: Lucas Vendite</li>
@@ -87,9 +89,9 @@
 
 
 <div  align="center">
-    <h2 id="social"></h2>
-<h2>Social</h2>
- 
+<h2 id="social">Social</h2>
+ <br>
+  
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  )](https://www.instagram.com/lvenditem/)
   [![twitter](https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white
