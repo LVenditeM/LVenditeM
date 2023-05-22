@@ -92,15 +92,10 @@
 <h2 id="social">Social</h2>
  <br>
   
-<a href="https://www.instagram.com/lvenditem/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://twitter.com/LVenditeM" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="https://www.linkedin.com/in/LVenditeM" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lvenditem/){:target="_blank"}
+[![twitter](https://img.shields.io/badge/Twitter-0abeff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LVenditeM){:target="_blank"}
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LVenditeM){:target="_blank"}
+
 
  <br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=footer"/>
